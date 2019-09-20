@@ -11,6 +11,7 @@
         display: inline-block;
         font-size: 6rem;
         margin-bottom: .5rem;
+        background-clip: text;
         background-image: linear-gradient(
             to right,
             $color-primary-light,
